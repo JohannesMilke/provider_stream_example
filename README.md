@@ -1,16 +1,12 @@
-# provider_stream_example
+# Provider Steam Example
 
-A new Flutter project.
 
-## Getting Started
+Example to use BloC and Streams with the Provider state management.
 
-This project is a starting point for a Flutter application.
+Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
-A few resources to get you started if this is your first Flutter project:
+Facebook: [JohannesMilke](https://www.facebook.com/milkejohannes "Facebook Johannes Milke")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Medium: [@JohannesMilke](https://medium.com/@johannesmilke  "Flutter Articles of Johannes Milke")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### All my Flutter projects --> [View on Instagram](https://www.instagram.com/johannesmilke/ "My Flutter projects")
