@@ -1,4 +1,4 @@
-# Provider Steam Example
+# Provider Stream Example
 
 
 Example to use BloC and Streams with the Provider state management.
